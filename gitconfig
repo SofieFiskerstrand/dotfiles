@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sofiepilskog@gmail.com
+	name = Sofie Fiskerstrand
